@@ -5,3 +5,5 @@ Duration: **48 mins**
 Description:
 
 How to get a very simple express app up and running on Node.js, ready for working with websockets.
+
+> Updated all on 3.11.2020

@@ -1,5 +1,5 @@
 
-# Java Info
+# Java
 
 Designed by: **James Gosling**
 

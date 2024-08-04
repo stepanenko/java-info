@@ -7,7 +7,7 @@ Owner: **Oracle Corporation**
 
 First appeared: **May 23, 1995**
 
-Stable release: **Java SE 17, 14 September 2021**
+Stable release: **Java 22 is the latest released Java version. In September 2024, Java 23 will follow.**
 
 Download Java: https://www.oracle.com/java/technologies/downloads/
 

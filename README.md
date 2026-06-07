@@ -7,7 +7,7 @@ Owner: **Oracle Corporation**
 
 First appeared: **May 23, 1995**
 
-Stable release: **The latest stable, Long-Term Support (LTS) version is JDK 25.**
+Stable release: **The latest stable, Long-Term Support (LTS) version is JDK 25 (September 2025).**
 
 Download Java: https://www.oracle.com/java/technologies/downloads/
 

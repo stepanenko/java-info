@@ -7,7 +7,7 @@ Owner: **Oracle Corporation**
 
 First appeared: **May 23, 1995**
 
-Stable release: **Java 22 is the latest released Java version. In September 2024, Java 23 will follow.**
+Stable release: **The latest stable, Long-Term Support (LTS) version is JDK 25.**
 
 Download Java: https://www.oracle.com/java/technologies/downloads/
 
